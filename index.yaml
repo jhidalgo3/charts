@@ -3,9 +3,9 @@ entries:
   podinfo:
   - apiVersion: v1
     appVersion: 9.0.0
-    created: "2020-03-28T20:19:46.1901774+01:00"
+    created: "2020-03-28T20:33:01.091348357+01:00"
     description: Podinfo Helm chart for Kubernetes
-    digest: 98bcd1721bae9dd0700ef1e87be433c73d11ab1eeda8845c4445eff1410a959e
+    digest: 0975dceef797a47594b15e209e933d09be2839e78dd5c1803703e3b097b13486
     home: https://github.com/jhidalgo3/charts
     maintainers:
     - email: jhidalgo3@users.noreply.github.com
@@ -16,4 +16,4 @@ entries:
     urls:
     - https://jhidalgo3.github.io/charts/podinfo-9.0.0.tgz
     version: 9.0.0
-generated: "2020-03-28T20:19:46.189061136+01:00"
+generated: "2020-03-28T20:33:01.090537234+01:00"
