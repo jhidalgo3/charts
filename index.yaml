@@ -3,7 +3,7 @@ entries:
   podinfo:
   - apiVersion: v1
     appVersion: 9.0.0
-    created: "2020-10-25T18:37:38.525848533+01:00"
+    created: "2021-02-05T19:39:19.630169365+01:00"
     description: Podinfo Helm chart for Kubernetes
     digest: 36d08be626eb2973a94c1072041f6b5672e41730069eff95e22b1b79a21ed883
     home: https://github.com/jhidalgo3/charts
@@ -16,10 +16,21 @@ entries:
     urls:
     - https://jhidalgo3.github.io/charts/podinfo-9.0.0.tgz
     version: 9.0.0
+  python-webhook:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-02-05T19:39:19.630568897+01:00"
+    description: A Helm chart for Kubernetes
+    digest: c373189689e49694166eb6923d4efc583812761c59c6cef8cb48118ab6d62be7
+    name: python-webhook
+    type: application
+    urls:
+    - https://jhidalgo3.github.io/charts/python-webhook-1.0.0.tgz
+    version: 1.0.0
   spring-boot-chart:
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2020-10-25T18:37:38.526265695+01:00"
+    created: "2021-02-05T19:39:19.63105238+01:00"
     description: Spring-boot Helm Chart
     digest: 9e9a847d7bd500646a42c90679ed88d2d78c81442e22b2bee694067675d05a6a
     home: https://github.com/jhidalgo3/charts
@@ -30,4 +41,4 @@ entries:
     urls:
     - https://jhidalgo3.github.io/charts/spring-boot-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2020-10-25T18:37:38.525081389+01:00"
+generated: "2021-02-05T19:39:19.628384842+01:00"
