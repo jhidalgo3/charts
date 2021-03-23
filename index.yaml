@@ -3,7 +3,7 @@ entries:
   podinfo:
   - apiVersion: v1
     appVersion: 9.0.0
-    created: "2021-03-03T11:51:16.160456722+01:00"
+    created: "2021-03-23T16:16:00.678768492+01:00"
     description: Podinfo Helm chart for Kubernetes
     digest: 36d08be626eb2973a94c1072041f6b5672e41730069eff95e22b1b79a21ed883
     home: https://github.com/jhidalgo3/charts
@@ -19,7 +19,7 @@ entries:
   python-webhook:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-03-03T11:51:16.161265553+01:00"
+    created: "2021-03-23T16:16:00.679173955+01:00"
     description: A Helm chart for Kubernetes
     digest: c373189689e49694166eb6923d4efc583812761c59c6cef8cb48118ab6d62be7
     name: python-webhook
@@ -30,7 +30,7 @@ entries:
   spring-boot-chart:
   - apiVersion: v2
     appVersion: 1.20.0
-    created: "2021-03-03T11:51:16.164649237+01:00"
+    created: "2021-03-23T16:16:00.680447183+01:00"
     description: A Helm chart for Kubernetes
     digest: 1af4fc47191cc119ae28e6225831d95e5cfb2cff86c75473b03906ef06ff9d3d
     name: spring-boot-chart
@@ -40,7 +40,7 @@ entries:
     version: 3.0.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-03-03T11:51:16.162372222+01:00"
+    created: "2021-03-23T16:16:00.679962296+01:00"
     description: A Helm chart for Kubernetes
     digest: 760e265a770a9453738ffe948b1fd03e2cb7681aff23876aa9d7d72160464099
     name: spring-boot-chart
@@ -50,7 +50,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 0.0.1
-    created: "2021-03-03T11:51:16.161891803+01:00"
+    created: "2021-03-23T16:16:00.679563388+01:00"
     description: Spring-boot Helm Chart
     digest: 9e9a847d7bd500646a42c90679ed88d2d78c81442e22b2bee694067675d05a6a
     home: https://github.com/jhidalgo3/charts
@@ -61,4 +61,15 @@ entries:
     urls:
     - https://jhidalgo3.github.io/charts/spring-boot-chart-0.0.1.tgz
     version: 0.0.1
-generated: "2021-03-03T11:51:16.159225303+01:00"
+  sqs-message-sender-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-03-23T16:16:00.680865565+01:00"
+    description: A Helm chart for Golang SQS Sender
+    digest: 0d3dd3bf8e381e3ae5980dce0a9e091f7810cce0adba4f2eda58f9901f7e6efa
+    name: sqs-message-sender-chart
+    type: application
+    urls:
+    - https://jhidalgo3.github.io/charts/sqs-message-sender-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-03-23T16:16:00.678029951+01:00"
